@@ -1,0 +1,101 @@
+.container{
+    padding:20px;
+  }
+  body {
+    margin-top: 0px;
+  }
+  img
+  {
+    width:100%;
+  }
+  
+  .image
+  {
+   
+    margin:0 auto;
+    margin-top:10px;
+    margin:10px;
+    background-color:white;
+    border:1px solid #ddd;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    
+  }
+  .def
+  {
+    padding:10px;
+    font-size:20px;
+    font-family:Comic Sans MS;
+  }
+  .quote_block
+  {
+    width:100%;
+    margin:0 auto;
+    margin-top:10px;
+    
+    
+  }
+  #quote
+  {
+      margin:0 auto;
+      padding:20px;
+  }
+   
+  blockquote
+  {
+       
+      background-image: url('https://previews.123rf.com/images/roystudio/roystudio1301/roystudio130100111/17454427-old-white-wall-texture-grunge-background-Stock-Photo-background.jpg');
+      background-repeat: no-repeat;
+      background-position: center; 
+      background-size: 100% 100%, cover;
+      color:#8D0606  ;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      font-family: Courier, Monaco, monospace;
+      font-size:20px;
+      font-weight:bold;
+      margin-top:10px;
+  }
+  .wr
+  {
+      color:#0D4A63;
+      padding:5px;
+  }
+  
+  hr
+  {
+      background-image: linear-gradient(to right,rgba(255, 0, 0, 0), rgba(255, 0, 0, 0.7),   rgba(255, 0, 0, 0));
+    display: block;
+      unicode-bidi: isolate;
+      -webkit-margin-before: 0.5em;
+      -webkit-margin-after: 0.5em;
+      -webkit-margin-start: auto;
+      -webkit-margin-end: auto;
+      overflow: hidden;
+        margin-top: 20px;
+      margin-bottom: 20px;
+      border: 0;
+      height: 1px;
+  }
+  
+  blockquote a:link {
+      
+      
+      text-decoration: none;
+      font-size:15px;
+  }
+  #solo-usr-th
+  {
+     
+      height:50px;
+      width:50px;
+      border-radius:50%;
+  }
+  a:link {
+      
+      
+      text-decoration: none;
+  }
+  
+  
+  
+  
